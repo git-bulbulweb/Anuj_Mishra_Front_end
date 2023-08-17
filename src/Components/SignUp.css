@@ -1,0 +1,5 @@
+#ul1 li::before {
+    content: '•';
+    color: green;
+    margin-right: 0.5em;
+  }

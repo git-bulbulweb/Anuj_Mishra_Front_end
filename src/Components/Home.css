@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#l1 a{
+    color: aliceblue;
+    font-size: 15px;
+}
+#l1 a:hover{
+    background-color: black;
+} 
+#l2{
+    font-size: 23px;
+    color: white;
+    font-family:'Kanit', sans-serif;
+}
+#l2:hover{
+    color: green;
+}
+.head1{
+    font-size: 80px;
+    margin: 50px;
+    text-align: center;
+    font-family:'Kanit', sans-serif;
+    margin-top: 90px;
+}
+.para1{
+    font-size: 18px;
+    font-family:'Kanit', sans-serif;
+    text-align: center;
+}
+#bot1{
+    z-index: 1;
+}
+#bot1:hover{
+    background-color: green;
+}
+.carousel-image-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.social-icons{
+    display: flex;
+    gap: 10px;
+}
+  
+.icon{
+    font-size: 24px;
+    border-radius: 10px;
+}
+.icon:hover{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    padding: 5px;
+}
+.buttons-container {
+    flex-wrap: wrap;
+}  
+.button-wrapper {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+._links{
+    font-size: 12px;
+}
+._links:hover{
+    color:green;
+    text-decoration: underline green;
+}
+#btng button:hover{
+    background-color: green;
+}
+
+  

@@ -1,0 +1,15 @@
+#cont{
+    background-color: black;
+}
+._links1{
+    font-family:'Kanit', sans-serif;
+    font-size: 15px;
+    color:#fff;
+}
+._links1:hover{
+    background-color: white;
+    color: black;
+}
+._l1:hover{
+    color: #FFF4A3;
+}
